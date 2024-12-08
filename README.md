@@ -1,30 +1,41 @@
-# Portfolio
-# Electrical & Electronics Engineer
+# Electronics Engineer
 
-#### Technical Skills: Electrical and Electronics Design, Capital Designer Tools, OrCAD,C/C++, Python, CATIA, Enovia.
+### Skills:
+#### Technical Skills: Circuit Design, PCB Designing, CAD Modelling, 3D Printing, Hardware debugging, Product development, EMI/EMC testing, Testing JIG Design, BON JIG Design, Component Procurement, LED Circuit Design, MOSFETs, TH & SMD Assembly, ESP32, Arduino
+
+#### Tools: Autodesk Fusion 360, Altium Designer, Arduino IDE, Multimeter, Oscilloscope
 
 ### Education 
-BE, Electrical and Electronics | RV College of Engineering (_Sep 2020_)
+BE, Electronics and Communication | Vellore Institute of Technology Bhopal (_May 2023_)
 
 ### Work Experience 
-**Electrical Design Engineer @ Dcubed GmbH (_June 2024 - December 2024_)**
-- *ISM (In-Space Manufacturing)*:  A pioneering project aimed at manufacturing components in space.
-- Designed and developed electrical and electronics systems for a boom made of resin to support a 100W solar array, enabling the next frontier in space manufacturing.
-- *CubeSat Foldable Solar Array* : Compact solar power solutions for small satellites.
-- Engineered a foldable solar array panel design, optimizing deployment mechanisms for enhanced efficiency and reliability in CubeSat operations.
-- *FURY* : A groundbreaking project to deploy a 1kW solar array in space.
-- Spearheaded the design of electrical systems for large-scale solar deployment, addressing challenges in scalability and power delivery in orbital conditions.
+**Electronic Engineer @ Upliance.ai (_May 2023 - Present_)**
+- Proficient in Altium, excelling in schematic design and PCB layout to create efficient electronic solutions.
+- Designed Flyback circuits: Enabled cost-effective, high-performance power solutions.
+- Procured various electronic components, including MOSFETs, MOVs, LDO, and Capacitors: Ensured product reliability and safety.
+- Implemented Bed of Nail Jig for automated testing: Increased production efficiency and product quality to reduce the time from 10min to 2min.
+- Designed and built a custom tablet Cluster by integrating SOM, LCD, camera, and peripherals, reducing costs compared to off-the-shelf solutions.
+- Created testing jigs (Thermal Chamber, Voltage DIP jig, Power ON/OFF Jig): Provided Cheap solutions to perform different tests.
+- Proficient in board bring-up and testing: Ensured product functionality and reliability.
+- Skilled in soldering small package components (0603, 20-TSSOP): Contributing to debugging and Broad Bringup.
+- Managed and mentored an intern: Guided project tasks, enhanced skills development, and ensured
+successful project completion.
+- Designed and implemented Dynamometer Motor Testing JIG for Universal Motors, incorporating motor
+selection based on specified criteria.
+- Achieved a 75% cost saving in Bill of Materials (BOM) through strategic cost-cutting measures.
+
   
-**Electrical Design Engineer @ Boeing (_June 2021 - June 2024_)**
-- *Boeing 747*: An iconic commercial airliner that has shaped the aviation industry.
-- Designed and developed **aircraft electrical functional schematics**, resulting in a 20% reduction in wiring errors during assembly.
-- *Chinook Helicopter* : A symbol of strength in various military operations.
-- Performed comprehensive **EMI/EMC analysis** to ensure compliance with industry regulations, resulting in a 20% reduction in electromagnetic interference issues. 
-- *C17* : A military transport aircraft renowned for its versatility and reliability.
-- Prepared detailed **BOM/component lists** for aircrafts, ensuring accurate inventory management and reducing procurement errors by 12%.
+**Embedded System Intern @ Upliance.ai (_August 2022 - April 2023_)**
+- Designed the circuit and PCB design for the microcontroller employed in our product.
+- Conducted a series of tests including Conducted Emission, Radiated Emission, Conductive Susceptibility, and others at the EMI/EMC Lab.
+- Acquired expertise in LED circuit design, hardware issue debugging, and prototype-to-product development processes.
+- Fabricated a Jig to replicate sensor signals, facilitating firmware design.
+- Developed a Testing Jig for comprehensive PCB board testing in product development.
+- Gained valuable exposure to an EMS company and its processes for large-scale production of goods.
 
-**Electronics and Embedded Engineer @ Jiva Sciences (_Oct 2020 - June 2021_)**
-- *Microfluidics & Photonics based Cell Sorting*: Collaborated with cross-functional teams to conduct thorough **testing and analysis of the PCB designs**, achieving a 95% success rate in meeting performance specifications.
-- *Lab Automation*: Integrated display modules using **UART, I2C, CAN and SPI protocols** to enhance user interface functionality, resulting in a 30% improvement in user experience satisfaction.
-
-## Projects
+### Awards and Volunteer Experience
+- Secured 2nd Place in Smart India Hackathon 2020 (Feb 2021)
+- Secured 8th rank in AWS Disaster Response Hackathon (2022)
+- Secured 16th rank in AWS Deep Learning Challenge (2022)
+- Top 50 Global Finalist in Google Solution Challenge 2022 - (May 2022)
+- Pre-finalist in Toycathon 2021 (May 2022)
