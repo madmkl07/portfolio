@@ -1,9 +1,12 @@
 # Electronics Engineer
 
 ### Skills:
-#### Technical Skills: Circuit Design, PCB Designing, CAD Modelling, 3D Printing, Hardware debugging, Product development, EMI/EMC testing, Testing JIG Design, BON JIG Design, Component Procurement, LED Circuit Design, MOSFETs, TH & SMD Assembly, ESP32, Arduino
 
-#### Tools: Autodesk Fusion 360, Altium Designer, Arduino IDE, Multimeter, Oscilloscope
+#### Technical Skills
+Circuit Design, PCB Designing, CAD Modelling, 3D Printing, Hardware debugging, Product development, EMI/EMC testing, Testing JIG Design, BON JIG Design, Component Procurement, LED Circuit Design, MOSFETs, TH & SMD Assembly, ESP32, Arduino
+
+#### Tools
+Autodesk Fusion 360, Altium Designer, Arduino IDE, Multimeter, Oscilloscope
 
 ### Education 
 BE, Electronics and Communication | Vellore Institute of Technology Bhopal (_May 2023_)
